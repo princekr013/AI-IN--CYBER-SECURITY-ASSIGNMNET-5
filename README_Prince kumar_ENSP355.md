@@ -1,7 +1,7 @@
 # Mini AI Cybersecurity Assistant
 
-**Student:** Yash Raj  
-**Roll Number:** 2401010008  
+**Student:** Prince kumar  
+**Roll Number:** 2401010198  
 **University:** K.R. Mangalam University  
 **Programme:** B.Tech CSE (Core)  
 **Course:** ENSP355 – AI in Cyber Security
